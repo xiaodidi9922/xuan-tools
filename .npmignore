@@ -1,0 +1,10 @@
+modules/
+test/
+type/
+jest.config.js
+rollup.config.js
+tsconfig.json
+typedoc.json
+yarn.lock
+.package-lock.json
+.gitignore
