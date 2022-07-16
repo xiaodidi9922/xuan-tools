@@ -1,6 +1,6 @@
 {
   "name": "xuan-tools",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "main": "lib/bundle.cjs.js",
   "module": "lib/bundle.esm.js",
   "private": false,

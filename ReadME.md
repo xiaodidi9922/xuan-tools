@@ -2,6 +2,12 @@
 
 ## 前言
 封装一些常用函数
+提供函数库开发框架(包括单元测试、自动生成文档等)
+
+## 版本更新
+- 1.0.1: 添加debounce函数
+- 1.0.2: 添加npm忽略文件
+- 1.0.3: 添加一些新函数、完善文档、添加prettierrc格式规范
 
 ## 快速开始
 
@@ -143,8 +149,5 @@ npm publish
 - rollup.config.js  打包配置
 - tsconfig.json      ts配置
 - typedoc.josn       生成文档配置 
+- .prettierrc        格式规范
 
-
-## 版本更新
-- 1.0.1: 添加debounce函数
-- 1.0.2: 添加npm忽略文件
